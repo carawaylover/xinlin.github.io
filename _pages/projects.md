@@ -23,5 +23,5 @@ redirect_from:
 ------
 - Heatwaves (with [Yazhen Gong](http://www.gongyazhen.com/), Qingfeng Liu and Chenxu Ni)
 - Ramadan (with [Qiong Zhang](http://spap.ruc.edu.cn/publish/spancn/jytd/qzjs/qb_qz/zq/fc6c1c13a07b4309ad13bf970d23ff2f.htm), Qingfeng Liu and Chenxu Ni)
-- Medical Dispute (with Yapeng Fu and Chenxu Ni)  
+- Medical Dispute (with [Yapeng Fu](https://fyapeng.com/) and Chenxu Ni)  
 
