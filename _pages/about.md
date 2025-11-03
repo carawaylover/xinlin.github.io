@@ -14,7 +14,7 @@ redirect_from:
   <br>
   Development Economics: Property rights, Human capital, Rural Entrepreneurship
   <br>
-  Regional and Real Estate Economics: Place-based policies, Land Economics
+  Regional and Real Estate Economics: Place-based policies, Land Economics and Policy
   <br><br>
   You can find my CV here: [Xin Lin's Curriculum Vitae](../files/CV.pdf). If you are interested in any aspect of my work, I would love to chat and collaborate. Please feel free to contact me via email: <a href="mailto:22040745r@connect.polyu.hk">22040745r@connect.polyu.hk</a>
 </p>  
