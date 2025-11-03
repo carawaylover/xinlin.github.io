@@ -10,13 +10,13 @@ redirect_from:
 <p style="text-align: justify;">
   Hello! I'm a final-year Ph.D. candidate at The Hong Kong Polytechnic University. I am on the 2025 - 2026 job market.
   <br>
-  My research interests lie in Development Economics, Regional and Real Estate Economics.  
+  My research interests lie in Development Economics, Regional and Real Estate Economics, and .  
   <br>
-  Development Economics: Land property rights, Human capital, Rural Entrepreneurship
+  Development Economics: Property rights, Human capital, Rural Entrepreneurship
   <br>
-  Regional and Real Estate Economics: Place-based policies
+  Regional and Real Estate Economics: Place-based policies, Land Economics
   <br><br>
-  Learn more from my <a href="https://Mucha-moment.github.io/files/CV.pdf">CV</a>. If you are interested in any aspect of my work, I would love to chat and collaborate. Please feel free to contact me via email: <a href="mailto:congzhenglong@ruc.edu.cn">congzhenglong@ruc.edu.cn</a>
+  You can find my CV here: [Xin Lin's Curriculum Vitae](../files/CV.pdf). If you are interested in any aspect of my work, I would love to chat and collaborate. Please feel free to contact me via email: <a href="mailto:22040745r@connect.polyu.hk">22040745r@connect.polyu.hk</a>
 </p>  
 
 🌟 Recent Research Highlights
