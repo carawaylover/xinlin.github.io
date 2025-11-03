@@ -10,7 +10,7 @@ redirect_from:
 <p style="text-align: justify;">
   Hello! I'm a final-year Ph.D. candidate at The Hong Kong Polytechnic University. I am on the 2025 - 2026 job market.
   <br>
-  My research interests lie in Development Economics, Regional and Real Estate Economics, and .  
+  My research interests lie in Development Economics, Regional and Real Estate Economics.  
   <br>
   Development Economics: Property rights, Human capital, Rural Entrepreneurship
   <br>
