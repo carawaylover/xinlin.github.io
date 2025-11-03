@@ -19,7 +19,7 @@ redirect_from:
   You can find my CV here: [Xin Lin's Curriculum Vitae](../files/CV.pdf). If you are interested in any aspect of my work, I would love to chat and collaborate. Please feel free to contact me via email: <a href="mailto:22040745r@connect.polyu.hk">22040745r@connect.polyu.hk</a>
 </p>  
 
-🌟 Recent Research Highlights
+🌟 Selected Work
 ------
 
 <div>
